@@ -1,4 +1,4 @@
-﻿[中文说明](https://github.com/messews/blockchain-python/blob/master/README_zh.md)
+(https://github.com/messews/blockchain-python/blob/master/README_zh.md)
 
 # Blockchain-python
 
